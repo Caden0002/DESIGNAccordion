@@ -127,7 +127,7 @@ const AccordianAnimation = () => {
               </motion.span>
             ))}
           </h1>
-          <span className="text-base sm:text-xl md:mr-auto mt-auto">
+          <span className="hidden sm:block text-xl md:mr-auto mt-auto">
             {SubTitle}
           </span>
         </div>

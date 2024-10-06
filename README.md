@@ -9,12 +9,11 @@
 This project shows you how to implement an award winning Accordion <br />
 
 Learn more about building this Accordion in React here:<br />
-https://medium.com/@caden0002/speed-animation-with-lottie-f314ce916f7b
-
+https://medium.com/@caden0002/recreating-an-award-winning-accordion-with-react-and-framer-motion-4b06bf6c2d59
 ## Tech Stack ##
 React<br />
 Tailwind<br />
-Lottie<br />
+Framer-Motion<br />
 
 
 
