@@ -1,13 +1,12 @@
-import Page1 from "./components/Page1.jsx";
-import Page2 from "./components/Page2.jsx";
+import AccordionBasic from "./components/AccordionBasic.jsx";
+import AccordionAnimation from "./components/AccordionAnimation.jsx";
 
 
 export default function App() {
     return (
         <>
-            <Page1 />
-            <Page2 />
-
+            <AccordionBasic />
+            <AccordionAnimation />
 
         </>
     )
